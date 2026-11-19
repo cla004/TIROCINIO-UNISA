@@ -26,6 +26,9 @@ La struttura e i contenuti del repository verranno aggiornati durante lo svolgim
 **Claudio Brizio**  
 Studente di Informatica – Università degli Studi di Salerno (UNISA)
 
+**Vincenzo Cannella**  
+Studente di Informatica – Università degli Studi di Salerno (UNISA)
+
 ### Stato
 
 In fase di sviluppo.
